@@ -25,3 +25,4 @@ target/*
 .classpath
 .project
 .settings/*
+/target/
